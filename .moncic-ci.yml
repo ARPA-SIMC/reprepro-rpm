@@ -1,4 +1,4 @@
 version: 2
 images:
-  - name: fedora:36
   - name: fedora:38
+  - name: fedora:40
