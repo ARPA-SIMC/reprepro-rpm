@@ -1,5 +1,5 @@
-[![Build Status](https://simc.arpae.it/moncic-ci/reprepro-rpm/fedora38.png)](https://simc.arpae.it/moncic-ci/reprepro-rpm/)
-[![Build Status](https://simc.arpae.it/moncic-ci/reprepro-rpm/fedora40.png)](https://simc.arpae.it/moncic-ci/reprepro-rpm/)
+[![Build Status](https://simc.arpae.it/moncic-ci/reprepro-rpm/fedora42.png)](https://simc.arpae.it/moncic-ci/reprepro-rpm/)
+[![Build Status](https://simc.arpae.it/moncic-ci/reprepro-rpm/fedora44.png)](https://simc.arpae.it/moncic-ci/reprepro-rpm/)
 
 # RPM files for reprepro
 
